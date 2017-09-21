@@ -70,8 +70,8 @@ define([
         // application settings
         var settings_demo = {
             name: "Demo",
-            url: "http://zurich.maps.arcgis.com",           // portal URL for config
-            webscene: "0af10b5e35ed4a5bbe095aa76b14b786",   // portal item ID of the webscene
+            url: "http://wwww.arcgis.com",           // portal URL for config
+            webscene: "343dfb5b3eb648558008314c5bcf37c7",   // portal item ID of the webscene
             usagename: "usage",                             // usage attribute (string)
             floorname: "floorID",                           // floor attribute (int)
             OIDname: "OBJECTID",                            // objectid
